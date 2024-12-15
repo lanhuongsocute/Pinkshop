@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: https://banme.com/admin
+Sitemap: https://banme.com/sitemap.xml

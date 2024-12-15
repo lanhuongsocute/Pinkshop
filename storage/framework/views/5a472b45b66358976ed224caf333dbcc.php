@@ -1,0 +1,1 @@
+<h1>Hello, World!</h1><?php /**PATH D:\xampp\htdocs\shop4\resources\views/backend/warehouseouts/show_p2.blade.php ENDPATH**/ ?>
